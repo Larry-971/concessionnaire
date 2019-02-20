@@ -1,0 +1,11 @@
+Extention datatable -> permet d avoir une barre de recherche
+    - Ajouter jquery
+    - ajouter cdn de datatable
+    https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css
+    https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js
+    -Fonction a exécuter : 
+        $(document).ready( function () {
+            $('#myTable').DataTable();
+        } );
+
+Toast en js --> rediriger
