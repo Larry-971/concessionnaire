@@ -1,8 +1,8 @@
 <?php 
 
 const LOCAL = "127.0.0.1";
-const UTILISATEUR = "Larry";
-const PASS = "TLarry110196";
+const UTILISATEUR = "";
+const PASS = "";
 const BDD = "concessionnaire";
 
 $connect = mysqli_connect(LOCAL,UTILISATEUR,PASS,BDD);
